@@ -1,5 +1,5 @@
-Đồ án môn học công nghệ mới trong phát triển phần mềm
-Thành viên:
-Phan Trung Hiếu
-Phạm Quốc Hoàng
-Đỗ Đăng Đức
+<b>Đồ án môn học công nghệ mới trong phát triển phần mềm:</b><br />
+Thành viên:<br />
+* Phan Trung Hiếu<br />
+* Phạm Quốc Hoàng<br />
+* Đỗ Đăng Đức<br />
